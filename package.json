@@ -1,0 +1,27 @@
+{
+  "name": "talkwithbot",
+  "version": "1.0.0",
+  "description": "Facebook Messenger Bot for chatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "FacebookBot"
+  ],
+  "author": "Saharsh Anand",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guywhogeek/TalkWithBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guywhogeek/TalkWithBot/issues"
+  },
+  "homepage": "https://github.com/guywhogeek/TalkWithBot#readme"
+}
